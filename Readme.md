@@ -12,4 +12,4 @@ ResearcHive is a centralized, offline institutional repository system specifical
 
 ![Alt Text](DASH1.png)  
 
-![Alt Text](DASH2.png)  
+

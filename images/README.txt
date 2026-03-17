@@ -1,1 +1,0 @@
-Place your school logo image here and name it logo.png (or update the HTML/CSS to match the filename).

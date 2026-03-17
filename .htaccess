@@ -1,0 +1,11 @@
+# Ensure index.php is served when hitting the folder
+DirectoryIndex index.php
+
+# prevent directory listing
+Options -Indexes
+
+# optional rewrite to clean url
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^$ index.php [L]
+</IfModule>
